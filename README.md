@@ -5,6 +5,8 @@
 <a href="https://linkedin.com/in/gustavo-araujo-a39989253" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+[![stats](https://github-readme-stats.vercel.app/api?username=gustavoaraujofs)](https://github.com/gustavoaraujofs/github-readme-stats)
+[![stats card](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoaraujofs)](https://github.com/gustavoaraujofs/github-readme-stats)
 <div align="center">
   <a href="https://github.com/gustavoaraujofs">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gustavoaraujofs&theme=dracula&show_icons=true"/>
