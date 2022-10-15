@@ -6,8 +6,8 @@
 </div>
 <div align="center">
   <a href="https://github.com/gustavoaraujofs">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gustavoaraujofs&include_all_commits=true&theme=dracula&show_icons=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoaraujofs&layout=compact&theme=dracula&langs_count=4"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gustavoaraujofs&include_all_commits=true&count_private=true&theme=dracula&show_icons=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoaraujofs&layout=compact&theme=dracula&langs_count=10"/>
 </div>
 
 ## Tecnologias:
