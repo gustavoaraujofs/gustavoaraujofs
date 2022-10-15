@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/gustavoaraujofs">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gustavoaraujofs&include_all_commits=true&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gustavoaraujofs&show_icons=true&theme=dracula"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoaraujofs&langs_count=10&layout=compact&theme=dracula"/>
 </div>
 
