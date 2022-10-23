@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/gustavoaraujofs">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gustavoaraujofs&include_all_commits=true&count_private=true&theme=dracula&show_icons=true" alt="status"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoaraujofs&layout=compact&theme=dracula&langs_count=10" alt="lenguages"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoaraujofs&hide=html&layout=compact&theme=dracula&langs_count=10" alt="lenguages"/>
 </div>
 
 ## Tecnologias:
